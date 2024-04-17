@@ -23,7 +23,7 @@
     - List tables inside database: `\d`
 
 
-![Alt text](Gambaran Project.jpg)
+![Alt text](image.png)
 
 # references:
 - https://towardsdatascience.com/upload-your-pandas-dataframe-to-your-database-10x-faster-eb6dc6609ddf
